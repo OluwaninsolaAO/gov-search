@@ -1,0 +1,53 @@
+version: "3.9"
+
+services:
+  # --- 1. Elasticsearch Service ---
+  elasticsearch:
+    image: elasticsearch:8.11.0 # Use the latest stable version
+    container_name: govsearch-es
+    ports:
+      - "9200:9200" # Main HTTP port for API communication
+      - "9300:9300" # Transport port (not usually needed for API work)
+    environment:
+      # Required for single-node development
+      - discovery.type=single-node
+      # IMPORTANT: Disables security features for simplicity in development
+      - xpack.security.enabled=false
+      # Set up memory limits to prevent exceeding resources
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+    volumes:
+      # Persistence: Stores your index data outside the container
+      - esdata:/usr/share/elasticsearch/data
+    networks:
+      - elastic-net
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9200"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # --- 2. Kibana Service ---
+  kibana:
+    image: kibana:8.11.0 # Must match the Elasticsearch version exactly
+    container_name: govsearch-kibana
+    ports:
+      - "5601:5601" # Default Kibana web port
+    environment:
+      # Tells Kibana where to find Elasticsearch
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    depends_on:
+      # Ensures Kibana waits for Elasticsearch to be healthy
+      elasticsearch:
+        condition: service_healthy
+    networks:
+      - elastic-net
+
+# --- Volumes for Data Persistence ---
+volumes:
+  esdata:
+    driver: local
+
+# --- Network Definition ---
+networks:
+  elastic-net:
+    driver: bridge

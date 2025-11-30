@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "gov-alex-otti",
+    "title": "",
+    "name": "Alex Otti",
+    "official_name": "Alex Otti",
+    "state": "Abia",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 2,
+        "codes": { "poll_unit": "AB" },
+        "name": "Abia",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "abia",
+      "url": "/place/abia",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/abia.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 2,
+        "codes": { "poll_unit": "AB" },
+        "name": "Abia",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "Labour Party",
+    "birth_date": "1965-02-18",
+    "gender": "Male",
+    "slug": "alex-otti",
+    "url": "/person/alex-otti",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "", "note": "" },
+      "email": {
+        "type": "email",
+        "value": "alexotti@me.com",
+        "note": "mailto:alexotti@me.com"
+      },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@alexottiofr",
+        "note": "https://twitter.com/alexottiofr"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "alexottiofr",
+        "note": "https://instagram.com/alexottiofr"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-alex-otti/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-alex-otti/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-alex-otti/original.jpeg"
+      },
+      "url": "https://github.com/theyworkforyou/shineyoureye-images/blob/gh-pages/Governors/gov-alex-otti/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  },
+  {
+    "id": "gov-ahmadu-umaru-finitiri",
+    "title": "",
+    "name": "Ahmadu Umaru Finitiri",
+    "official_name": "Ahmadu Finitiri",
+    "state": "Adamawa",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 3,
+        "codes": { "poll_unit": "AD" },
+        "name": "Adamawa",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "adamawa",
+      "url": "/place/adamawa",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/adamawa.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 3,
+        "codes": { "poll_unit": "AD" },
+        "name": "Adamawa",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "Peoples Democratic Party",
+    "birth_date": "1967-10-27",
+    "gender": "Male",
+    "slug": "ahmadu-umaru-finitiri",
+    "url": "/person/ahmadu-umaru-finitiri",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "", "note": "" },
+      "email": {
+        "type": "email",
+        "value": "info@governor.adamawastate.gov.ng",
+        "note": "mailto:info@governor.adamawastate.gov.ng"
+      },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@AhmaduFintiri",
+        "note": "https://twitter.com/AhmaduFintiri"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "governorauf",
+        "note": "https://instagram.com/governorauf"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-ahmadu-umaru-finitiri/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-ahmadu-umaru-finitiri/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-ahmadu-umaru-finitiri/original.jpeg"
+      },
+      "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-ahmadu-umaru-finitiri/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  },
+  {
+    "id": "gov-bassey-umo-eno",
+    "title": "",
+    "name": "Bassey Umo Eno",
+    "official_name": "Bassey Eno",
+    "state": "Akwa Ibom",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 4,
+        "codes": { "poll_unit": "AK" },
+        "name": "Akwa Ibom",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "akwa-ibom",
+      "url": "/place/akwa-ibom",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/akwa-ibom.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 4,
+        "codes": { "poll_unit": "AK" },
+        "name": "Akwa Ibom",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "Peoples Democratic Party",
+    "birth_date": "1964-04-24",
+    "gender": "Male",
+    "slug": "bassey-umo-eno",
+    "url": "/person/bassey-umo-eno",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "", "note": "" },
+      "email": {
+        "type": "email",
+        "value": "info@akwaibomstate.gov.ng.",
+        "note": "mailto:info@akwaibomstate.gov.ng."
+      },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@_PastorUmoEno",
+        "note": "https://twitter.com/_PastorUmoEno"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "pastorumoeno",
+        "note": "https://instagram.com/pastorumoeno"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bassey-umo-eno/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bassey-umo-eno/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bassey-umo-eno/original.jpeg"
+      },
+      "url": "https://github.com/theyworkforyou/shineyoureye-images/blob/gh-pages/Governors/gov-bassey-umo-eno/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  },
+  {
+    "id": "gov-charles-soludo",
+    "title": "",
+    "name": "Charles Soludo",
+    "official_name": "Charles Soludo",
+    "state": "Anambra",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 5,
+        "codes": { "poll_unit": "AN" },
+        "name": "Anambra",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "anambra",
+      "url": "/place/anambra",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/anambra.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 5,
+        "codes": { "poll_unit": "AN" },
+        "name": "Anambra",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "All Progressives Grand Alliance",
+    "birth_date": "1960-07-28",
+    "gender": "Male",
+    "slug": "charles-soludo",
+    "url": "/person/charles-soludo",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "", "note": "" },
+      "email": {
+        "type": "email",
+        "value": "ccsoludo@anambrastate.gov.ng",
+        "note": "mailto:ccsoludo@anambrastate.gov.ng"
+      },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@CCSoludo",
+        "note": "https://twitter.com/CCSoludo"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "ccsoludo",
+        "note": "https://instagram.com/ccsoludo"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-charles-soludo/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-charles-soludo/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-charles-soludo/original.jpeg"
+      },
+      "url": "https://github.com/theyworkforyou/shineyoureye-images/blob/gh-pages/Governors/gov-charles-soludo/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  },
+  {
+    "id": "gov-bala-mohammed",
+    "title": "",
+    "name": "Mohammed Bala Abdulkadir",
+    "official_name": "Mohammed Abdulkadir",
+    "state": "Bauchi",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 6,
+        "codes": { "poll_unit": "BA" },
+        "name": "Bauchi",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "bauchi",
+      "url": "/place/bauchi",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/bauchi.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 6,
+        "codes": { "poll_unit": "BA" },
+        "name": "Bauchi",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "Peoples Democratic Party",
+    "birth_date": "1959-10-05",
+    "gender": "Male",
+    "slug": "mohammed-bala-abdulkadir",
+    "url": "/person/mohammed-bala-abdulkadir",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "", "note": "" },
+      "email": {
+        "type": "email",
+        "value": "info@bauchistate.gov.ng",
+        "note": "mailto:info@bauchistate.gov.ng"
+      },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@SenBalaMohammed",
+        "note": "https://twitter.com/SenBalaMohammed"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "senbalamohammed",
+        "note": "https://instagram.com/senbalamohammed"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bala-mohammed/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bala-mohammed/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bala-mohammed/original.jpeg"
+      },
+      "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bala-mohammed/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  },
+  {
+    "id": "gov-douye-diri",
+    "title": "",
+    "name": "Douye Diri",
+    "official_name": "Douye Diri",
+    "state": "Bayelsa",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 7,
+        "codes": { "poll_unit": "BY" },
+        "name": "Bayelsa",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "bayelsa",
+      "url": "/place/bayelsa",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/bayelsa.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 7,
+        "codes": { "poll_unit": "BY" },
+        "name": "Bayelsa",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "Peoples Democratic Party",
+    "birth_date": "1959-04-06",
+    "gender": "Male",
+    "slug": "douye-diri",
+    "url": "/person/douye-diri",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "08036668698", "note": "" },
+      "email": {
+        "type": "email",
+        "value": "douyediri@gmail.com",
+        "note": "mailto:douyediri@gmail.com"
+      },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@govdouyediri",
+        "note": "https://twitter.com/govdouyediri"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "govdouyediri",
+        "note": "https://instagram.com/govdouyediri"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-douye-diri/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-douye-diri/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-douye-diri/original.jpeg"
+      },
+      "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-douye-diri/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  },
+  {
+    "id": "gov-hyacinth-alia",
+    "title": "Rev. Fr.",
+    "name": "Hyacinth Alia",
+    "official_name": "Hyacinth Alia",
+    "state": "Benue",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 8,
+        "codes": { "poll_unit": "BE" },
+        "name": "Benue",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "benue",
+      "url": "/place/benue",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/benue.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 8,
+        "codes": { "poll_unit": "BE" },
+        "name": "Benue",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "All Progressives Congress",
+    "birth_date": "1966-05-15",
+    "gender": "Male",
+    "slug": "hyacinth-alia",
+    "url": "/person/hyacinth-alia",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "", "note": "" },
+      "email": {
+        "type": "email",
+        "value": "governoralia@benuestate.gov.ng",
+        "note": "mailto:governoralia@benuestate.gov.ng"
+      },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@HyacinthAlia",
+        "note": "https://twitter.com/HyacinthAlia"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "hyacinthalia",
+        "note": "https://instagram.com/hyacinthalia"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-hyacinth-alia/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-hyacinth-alia/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-hyacinth-alia/original.jpeg"
+      },
+      "url": "https://github.com/theyworkforyou/shineyoureye-images/blob/gh-pages/Governors/gov-hyacinth-alia/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  },
+  {
+    "id": "gov-babagana-zulum",
+    "title": "",
+    "name": "Babagana Umara Zulum",
+    "official_name": "Babagana Zulum",
+    "state": "Borno",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 9,
+        "codes": { "poll_unit": "BO" },
+        "name": "Borno",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "borno",
+      "url": "/place/borno",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/borno.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 9,
+        "codes": { "poll_unit": "BO" },
+        "name": "Borno",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "All Progressives Congress",
+    "birth_date": "1959-08-25",
+    "gender": "Male",
+    "slug": "babagana-umara-zulum",
+    "url": "/person/babagana-umara-zulum",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "", "note": "" },
+      "email": {
+        "type": "email",
+        "value": "info@bauchistate.gov.ng",
+        "note": "mailto:info@bauchistate.gov.ng"
+      },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@ProfZulum",
+        "note": "https://twitter.com/ProfZulum"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "profzulum",
+        "note": "https://instagram.com/profzulum"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-babagana-zulum/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-babagana-zulum/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-babagana-zulum/original.jpeg"
+      },
+      "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-babagana-zulum/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  },
+  {
+    "id": "gov-bassey-otu",
+    "title": "",
+    "name": "Bassey Otu",
+    "official_name": "Bassey Otu",
+    "state": "Cross River",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 10,
+        "codes": { "poll_unit": "CR" },
+        "name": "Cross River",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "cross-river",
+      "url": "/place/cross-river",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/cross-river.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 10,
+        "codes": { "poll_unit": "CR" },
+        "name": "Cross River",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "All Progressives Congress",
+    "birth_date": "1959-10-18",
+    "gender": "Male",
+    "slug": "bassey-otu",
+    "url": "/person/bassey-otu",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "", "note": "" },
+      "email": { "type": "email", "value": "", "note": "" },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@officialspbo",
+        "note": "https://twitter.com/officialspbo"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "officialspbo",
+        "note": "https://instagram.com/officialspbo"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bassey-otu/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bassey-otu/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-bassey-otu/original.jpeg"
+      },
+      "url": "https://github.com/theyworkforyou/shineyoureye-images/blob/gh-pages/Governors/gov-bassey-otu/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  },
+  {
+    "id": "gov-sheriff-oborevwori",
+    "title": "",
+    "name": "Sheriff Oborevwori",
+    "official_name": "Sheriff Oborevwori",
+    "state": "Delta",
+    "area": {
+      "place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 11,
+        "codes": { "poll_unit": "DE" },
+        "name": "Delta",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      },
+      "place_url": "delta",
+      "url": "/place/delta",
+      "image": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Static/assets/images/thumbnails/delta.jpg"
+      },
+      "parent_place": {
+        "parent_area": null,
+        "generation_high": null,
+        "all_names": null,
+        "id": null,
+        "codes": null,
+        "name": null,
+        "country": null,
+        "type_name": null,
+        "generation_low": null,
+        "country_name": null,
+        "type": null
+      },
+      "state_place": {
+        "parent_area": null,
+        "generation_high": 1,
+        "all_names": {},
+        "id": 11,
+        "codes": { "poll_unit": "DE" },
+        "name": "Delta",
+        "country": "N",
+        "type_name": "State",
+        "generation_low": 1,
+        "country_name": "Nigeria",
+        "type": "STA"
+      }
+    },
+    "party": "Peoples Democratic Party",
+    "birth_date": "1963-06-19",
+    "gender": "Male",
+    "slug": "sheriff-oborevwori",
+    "url": "/person/sheriff-oborevwori",
+    "summary_doc": {
+      "title": "",
+      "slug": "",
+      "published": "",
+      "featured": "",
+      "url": "",
+      "author": "",
+      "body": ""
+    },
+    "address": {
+      "postal_address": { "type": "postal address", "value": "" },
+      "district": { "type": "district", "value": "" }
+    },
+    "other_names": [],
+    "contact": {
+      "phone": { "type": "phone", "value": "", "note": "" },
+      "email": {
+        "type": "email",
+        "value": "admin@governorsheriff.com",
+        "note": "mailto:admin@governorsheriff.com"
+      },
+      "facebook": { "type": "facebook", "value": "", "note": "" },
+      "twitter": {
+        "type": "twitter",
+        "value": "@RtHonSheriff",
+        "note": "https://twitter.com/RtHonSheriff"
+      },
+      "instagram": {
+        "type": "instagram",
+        "value": "sheriffoborevwori",
+        "note": "https://instagram.com/sheriffoborevwori"
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-sheriff-oborevwori/100x100.jpeg"
+      },
+      "medium": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-sheriff-oborevwori/250x250.jpeg"
+      },
+      "original": {
+        "url": "https://theyworkforyou.github.io/shineyoureye-images/Governors/gov-sheriff-oborevwori/original.jpeg"
+      },
+      "url": "https://github.com/theyworkforyou/shineyoureye-images/blob/gh-pages/Governors/gov-sheriff-oborevwori/original.jpeg"
+    },
+    "links": {
+      "wikipedia": { "note": "wikipedia", "url": "" },
+      "website": { "note": "website", "url": "" }
+    },
+    "identifiers": {
+      "official_position": { "identifier": "official_position", "value": "" },
+      "official_position_order": {
+        "identifier": "official_position_order",
+        "value": ""
+      }
+    },
+    "position": "Governor",
+    "start_date": "2023-06-11",
+    "end_date": "2027-06-11",
+    "legislative_period": "Executive"
+  }
+]
